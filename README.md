@@ -1,1 +1,1 @@
-# illuinating-insights-from-uber-expeditionary-analysis
+# illuminating-insights-from-uber-expeditionary-analysis
